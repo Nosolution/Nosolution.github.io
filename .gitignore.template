@@ -1,0 +1,10 @@
+/Latex/*.aux
+/Latex/*.log
+/Latex/*.pdf
+/Latex/*.toc
+/Latex/*.dvi
+/Latex/*.synctex.gz
+/.idea/
+/.vscode/
+/**/**.iml
+/**/.DS_Store
